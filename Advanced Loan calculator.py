@@ -1,3 +1,4 @@
+#Created by Cyclops!
 import time
 
 amt = 0
